@@ -1,4 +1,4 @@
-## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS {style=text-align:center}
+## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 
 This privacy policy governs your use of the software application "FAWE: Enchanted Forest" for mobile devices that was created by Town Portal. The Application is "Hearthstone in 2 clicks" game.
 
