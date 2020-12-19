@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 
-You can use the [editor on GitHub](https://github.com/cnaize/fawe-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy governs your use of the software application "FAWE: Enchanted Forest" for mobile devices that was created by Town Portal. The Application is "Hearthstone in 2 clicks" game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### What information does the Application obtain and how is it used?
 
-### Markdown
+**User Provided Information**
+The Application does not obtain user provided information.
+**Automatically Collected Information**
+The Application does not collect automatically collected information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Does the Application collect precise real time location information of the device?
+This Application does not collect precise information about the location of your mobile device.
 
-```markdown
-Syntax highlighted code block
+#### Do third parties see and/or have access to information obtained by the Application?
+Third parties do not have access to information obtained by the Application.
 
-# Header 1
-## Header 2
-### Header 3
+#### What are my opt-out rights?
+You can stop all obtainment of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at cnaize@gmail.com.
 
-- Bulleted
-- List
+#### Data Retention Policy, Managing Your Information
+We will retain Automatically Collected Information for as long as you use the Application and for a reasonable time thereafter. Please note that some or all of the Automatically Collected Information may be required in order for the Application to function properly.
 
-1. Numbered
-2. List
+#### Children
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at cnaize@gmail.com. We will delete such information from our files within a reasonable time.
 
-**Bold** and _Italic_ and `Code` text
+#### Security
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
-[Link](url) and ![Image](src)
-```
+#### Changes
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy [here](https://cnaize.github.io/fawe-policy/) and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking [here](https://github.com/cnaize/fawe-policy/commits/gh-pages/index.md).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Your Consent
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnaize/fawe-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Contact us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at cnaize@gmail.com.
