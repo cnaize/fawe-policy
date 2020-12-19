@@ -14,7 +14,7 @@ The Application does not collect automatically collected information.
 This Application does not collect precise information about the location of your mobile device.
 
 ### Do third parties see and/or have access to information obtained by the Application?
-Third parties do not have access to information obtained by the Application.
+Third parties do not see and/or have access to information obtained by the Application.
 
 ### What are my opt-out rights?
 You can stop all obtainment of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at cnaize@gmail.com.
